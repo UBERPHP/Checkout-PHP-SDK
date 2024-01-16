@@ -1,6 +1,6 @@
 {
     "name": "uberphp/checkout-php-sdk",
-    "description": "PayPal's PHP SDK for Checkout REST APIs",
+    "description": "Copy of PayPal's PHP SDK for Checkout REST APIs",
     "keywords": ["paypal", "payments", "rest", "sdk", "orders", "checkout"],
     "type": "library",
     "license": "Apache-2.0",
@@ -10,8 +10,8 @@
     },
     "authors": [
         {
-            "name": "PayPal",
-            "homepage": "https://github.com/paypal/Checkout-PHP-SDK/contributors"
+            "name": "UBERPHP",
+            "homepage": "https://github.com/UBERPHP"
         }
     ],
     "require-dev": {
